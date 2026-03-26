@@ -1,4 +1,4 @@
-# Actividad---Arquitetura-de-red
+# Actividad Arquitetura de red
 ### 1. Conceptos base
 
 Completar tabla:
